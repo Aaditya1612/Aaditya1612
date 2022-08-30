@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning: Everything I should  ʕ•ᴥ•ʔ
 - 🌱 Improving my problem solving abilities everyday
 - 📫 How to reach me: aadityaraj085@gmail.com
-- ⚡ Fun fact: I love writing technical contents, check them on <a href="https://foxstack.blogspot.com/">[foxstack.blogspot.com]</a>
+- ⚡ Fun fact: I love writing programming contents, check them on <a href="https://foxstack.blogspot.com/">[foxstack.blogspot.com]</a>
 
 ### Languages & Tools 🛠
 
