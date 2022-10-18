@@ -35,7 +35,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya1612&theme=dark&background=090021)](https://git.io/streak-stats)
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditya1612&show_icons=true&theme=radical)
+![github graph](https://activity-graph.herokuapp.com/graph?username=aaditya1612&theme=react-dark)
 
 
 ### Let's connect ? 🤝
