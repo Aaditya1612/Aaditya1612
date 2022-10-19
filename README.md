@@ -45,6 +45,7 @@
 <a href="mailto:aadityaraj085@gmail.com"><img src="https://img.shields.io/badge/-aadityaraj085@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aaditya_c16/"><img src="https://img.shields.io/badge/-@aaditya_c16-D14836?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-<br>
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="42a7f5")](https://github.com/aaditya1612)
+<br />
+<br />
+
+#### Thanks for stopping by.
