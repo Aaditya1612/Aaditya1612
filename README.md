@@ -1,5 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Aaditya1612&repo=Aaditya1612&countColorcountColor)
-
 [![@aaditya1612's Holopin board](https://holopin.me/aaditya1612)](https://holopin.io/@aaditya1612)
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! I am Aaditya Raj </h1>
