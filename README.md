@@ -12,7 +12,7 @@
 ### Tech Stack & Tools 🛠
 
 <div>
-  <img src="https://skillicons.dev/icons?i=flutter,python,java,dart,firebase,html,css,git,figma"/>
+  <img src="https://skillicons.dev/icons?i=flutter,django,flask,fastapi,mysql,firebase,python,java,dart,html,css,javascript,c,git,docker,googlecloud,linux,figma"/>
 </div>
 
 ### Analytics ⚙️
