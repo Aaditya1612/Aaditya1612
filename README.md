@@ -4,7 +4,7 @@
 
 <h2 align="center">Following My Passion, from India</h2>
 
-- 🔭 I’m currently learning: Deep Learning and Neural Networks
+- 🔭 I’m currently: Building BargainBay
 - 🌱 Improving my problem solving abilities everyday
 - 📫 How to reach me: aadityaraj085@gmail.com
 - ⚡ Fun fact: I love writing programming contents, check them on <a href="https://foxstack.blogspot.com/">[foxstack.blogspot.com]</a>
