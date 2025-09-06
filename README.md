@@ -4,7 +4,6 @@
 
 <h2 align="center">Following My Passion, from India</h2>
 
-- 🔭 I’m currently: Working with Juspay
 - 🌱 Improving my problem solving abilities everyday
 - 📫 How to reach me: aadityaraj085@gmail.com
 
