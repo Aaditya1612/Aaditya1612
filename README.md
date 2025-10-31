@@ -18,15 +18,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya1612&theme=dark&background=090021)](https://git.io/streak-stats)
-<br />
 
-
-### Let's connect ? 🤝
-
-<p align="left">
-<a href="https://www.linkedin.com/in/aaditya-raj-053974188/"><img src="https://img.shields.io/badge/-aadityaraj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/aaditya_c16/"><img src="https://img.shields.io/badge/-@aaditya_c16-D14836?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
 <br />
 <br />
 
