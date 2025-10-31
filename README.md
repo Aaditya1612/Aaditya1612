@@ -5,7 +5,6 @@
 <h2 align="center">Following My Passion, from India</h2>
 
 - 🌱 Improving my problem solving abilities everyday
-- 📫 How to reach me: aadityaraj085@gmail.com
 
 ### Tech Stack & Tools 🛠
 
